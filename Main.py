@@ -28,11 +28,12 @@ class Paddle:
         self.shapesize(5, 1)
         self.color("white")
         self.penup()
-        self.setx({}) = x
-        self.sety({}) = y
+        self.setx(x)
+        self.sety(y)
 
 
-paddle_1 = Paddle(350, 0)
+paddle_1 = Paddle(-350, 0)
+paddle_2 = Paddle(350, 0)
 
 
 while True:
