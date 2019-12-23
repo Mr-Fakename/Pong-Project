@@ -94,10 +94,6 @@ class Paddle(turtle.Turtle):
 score_1 = 0
 score_2 = 0
 
-r = random.randint(0, 250)
-g = random.randint(0, 250)
-b = random.randint(0, 250)
-
 paddle_1 = Paddle(-350)
 paddle_2 = Paddle(350)
 
