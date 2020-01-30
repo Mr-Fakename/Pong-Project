@@ -1,7 +1,7 @@
 # Pong-Project
 
 Trying different approaches to building a Pong game; as a way to learn paradigms and clean code
-Went from purely functional programming to OOP
+* Went from purely functional programming to OOP
 
 
 ## Getting Started
